@@ -1,4 +1,0 @@
- "AadClientId": "d6706993-7587-4c6d-b5e1-0724d28cffa7",
-  "AadSecret": "OC78Q~yuoU-dh~W-jc~bq~pZay9RKsdAsu3UAcVQ",
-  "AadTenantDomain": "6xrlvq.onmicrosoft.com",
-  "AadTenantId": "9597a689-a037-4b46-a258-b94041ae7f81",
